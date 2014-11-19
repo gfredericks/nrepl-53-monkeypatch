@@ -10,7 +10,7 @@ group-id) version of nrepl.
 
 ## Usage
 
-Put `[com.gfredericks/nrepl-53-monkeypatch "0.1.0-SNAPSHOT"]` into the `:plugins` vector of your
+Put `[com.gfredericks/nrepl-53-monkeypatch "0.1.0"]` into the `:plugins` vector of your
 `:user` profile.
 
 ## License
