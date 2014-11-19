@@ -1,4 +1,4 @@
-(defproject com.gfredericks/nrepl-53-monkeypatch "0.1.0"
+(defproject com.gfredericks/nrepl-53-monkeypatch "0.1.1-SNAPSHOT"
   :description "Temporary fix for the NREPL-53 bug"
   :url "https://github.com/gfredericks/nrepl-53-monkeypatch"
   :license {:name "Eclipse Public License"
